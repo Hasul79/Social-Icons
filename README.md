@@ -1,1 +1,1 @@
-# Socials-Icons
+# Social-Icons
