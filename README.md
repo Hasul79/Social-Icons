@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/Social-Icons/
 
-# autor: Hasmik Minasyan
+# author: Hasmik Minasyan
